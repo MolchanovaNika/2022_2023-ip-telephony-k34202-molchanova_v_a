@@ -59,3 +59,47 @@ Date of finished: xx.xx.2023
 
 
 ## Часть 2
+
+1. Собрана схема.
+
+![image](https://user-images.githubusercontent.com/90505004/226179282-4767b7a6-09f7-4282-be5c-ffa577f94c08.png)
+
+2. Созданы VLAN порты на коммутаторе для взаимодействия коммутатора с маршрутизатором и подключены IP телефоны.
+
+![image](https://user-images.githubusercontent.com/90505004/226180598-a861fe06-0487-44c3-844e-928c16b064b0.png)
+
+3. Настроены интерфейсы коммутатора, связанные с телефонами: интерфейсы переведены в режим доступа со стандартной и голосовой виртуальной сетью.
+
+![image](https://user-images.githubusercontent.com/90505004/226181099-ea391785-3347-4a85-92d6-d8c66b6fe5f4.png)
+![image](https://user-images.githubusercontent.com/90505004/226181105-5e3bea56-265d-40ad-a393-0ae4ff7b95df.png)
+
+4. Задан маршрут по умолчанию командой ip default-gateway. Настроен порт как канал типа trunk.
+
+![image](https://user-images.githubusercontent.com/90505004/226181375-5933b4d8-bf11-49e6-bd85-6f94662e53df.png)
+
+5. Созданы логические подинтерфейсы под каждый VLAN.
+
+![image](https://user-images.githubusercontent.com/90505004/226182068-05576c57-7fe4-414f-b502-cd582d19173b.png)
+
+6. Исключены из пула адрес интерфейса маршрутизатора и DNS-сервера.  Настраены DHCP сервера для передачи голоса и данных на
+маршрутизаторе.
+
+![image](https://user-images.githubusercontent.com/90505004/226182442-5720152e-573f-4e07-8260-c7c37ffb022a.png)
+
+7. Присвоены номера для всех IP-телефонов в сети
+
+![image](https://user-images.githubusercontent.com/90505004/226182764-04db6984-4bbf-481f-88f3-a03962fac48b.png)
+
+8. Проверка доступности устройств.
+
+![image](https://user-images.githubusercontent.com/90505004/226183013-ea53bf8d-37b5-4dbf-9e2b-e54d47d11831.png)
+
+9. Проверка доступности с компьютера.
+
+![image](https://user-images.githubusercontent.com/90505004/226183764-2b4a452c-c3c4-45e7-a212-85698328d04b.png)
+
+10. Проверка звонков между телефонами.
+
+![яя](https://user-images.githubusercontent.com/90505004/226184472-4a33b712-6e1c-4287-8b40-aa76c394f031.jpg)
+
+Вывод: В результате проделанной работы изучена схема настройки IP-телефонии с помощью CallManager Express.
