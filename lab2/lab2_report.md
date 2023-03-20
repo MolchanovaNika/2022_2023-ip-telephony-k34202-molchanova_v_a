@@ -96,7 +96,8 @@ Date of finished: xx.xx.2023
 
 9. Проверка доступности с компьютера.
 
-![image](https://user-images.githubusercontent.com/90505004/226183764-2b4a452c-c3c4-45e7-a212-85698328d04b.png)
+![skrin](https://user-images.githubusercontent.com/90505004/226315752-63c66a8e-af59-40a1-b409-51f5bb0e29dd.png)
+
 
 10. Проверка звонков между телефонами.
 
