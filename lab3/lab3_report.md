@@ -31,7 +31,8 @@ Date of finished: xx.xx.2023
 
 2. Настроен интерфейс fa0/0 на маршрутизаторах Cisco 2811.
 
-![image](https://user-images.githubusercontent.com/90505004/228925488-f4478c3f-9fa7-4e19-9232-1c803723ed8f.png)
+![image](https://user-images.githubusercontent.com/90505004/228925488-f4478c3f-9fa7-4e19-9![photo_2023-03-30_22-14-11](https://user-images.githubusercontent.com/90505004/228941137-bbf1b65e-98ed-46ca-b561-f5e79e921706.jpg)
+232-1c803723ed8f.png)
 
 3. Настроен интерфейс s0/3/0 на маршрутизаторах Cisco 2811.
 
@@ -68,7 +69,8 @@ Date of finished: xx.xx.2023
 
 ![image](https://user-images.githubusercontent.com/90505004/228939023-6b4c79a4-aadb-4ac7-84e4-84d3cbb86fb5.png)
 
-![image](https://user-images.githubusercontent.com/90505004/228940751-bb0ebcb6-d3e9-43f0-ba3a-7122ac3037c2.png)
+![Uploading photo_2023-03-30_22-14-11.jpg…]()
+
 
 Вывод: В результате проделанной работы изучено построение сети IP-телефонии междуудаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т
 
