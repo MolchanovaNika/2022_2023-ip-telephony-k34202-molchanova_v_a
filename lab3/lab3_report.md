@@ -69,7 +69,7 @@ Date of finished: xx.xx.2023
 
 ![image](https://user-images.githubusercontent.com/90505004/228939023-6b4c79a4-aadb-4ac7-84e4-84d3cbb86fb5.png)
 
-![Uploading photo_2023-03-30_22-14-11.jpg…]()
+![photo_2023-03-30_22-14-11](https://user-images.githubusercontent.com/90505004/228941343-f57f639d-cd80-42d4-9019-d7471dd24aba.jpg)
 
 
 Вывод: В результате проделанной работы изучено построение сети IP-телефонии междуудаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т
