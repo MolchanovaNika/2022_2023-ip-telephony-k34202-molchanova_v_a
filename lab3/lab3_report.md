@@ -12,7 +12,7 @@ Author: Molchanova Veronika Alexandrovna
 
 Lab: Lab1
 
-Date of create: 18.03.2023
+Date of create: 30.03.2023
 
 Date of finished: xx.xx.2023
 
@@ -64,4 +64,11 @@ Date of finished: xx.xx.2023
 ![image](https://user-images.githubusercontent.com/90505004/228938322-28b8eead-6a5c-4d68-8bfa-c641aa63e975.png)
 
 
+10. Выполнена проверка передачи данных между компьютерами и связь между телефонами.
+
+![image](https://user-images.githubusercontent.com/90505004/228939023-6b4c79a4-aadb-4ac7-84e4-84d3cbb86fb5.png)
+
+![image](https://user-images.githubusercontent.com/90505004/228940751-bb0ebcb6-d3e9-43f0-ba3a-7122ac3037c2.png)
+
+Вывод: В результате проделанной работы изучено построение сети IP-телефонии междуудаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т
 
